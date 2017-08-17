@@ -28,33 +28,33 @@ Install Tableau onto your computer by going to Control Panel --> Add Programs fr
 
 
 -   [Birth weight
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Birthweight.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/Birthweight.jmp)
 -   [BRFSS
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/BRFSS.jmp)
+    data](https://www.dropbox.com/s/lbqr85a1to664n9/BRFSS.jmp?dl=0)
 -   [FEV
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/FEVdata.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/FEVdata.jmp)
 -   [HIV
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/HIV-Antiretroviral.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/HIV-Antiretroviral.jmp)
 -   [Iraq War
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/IraqWar.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/IraqWar.jmp)
 -   [Lions
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Lions.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/Lions.jmp)
 -   [Lymphedenopathy
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/LymphNodes.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/LymphNodes.jmp)
 -   [Pancreatic cancer
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Pancreatic_Cancer_Data.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/Pancreatic_Cancer_Data.jmp)
 -   [Pew research
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/PewFacebookData.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/PewFacebookData.jmp)
 -   [Smiles
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Smiles.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/Smiles.jmp)
 -   [Spring 2017 Student Survey
-    Data](https://github.com/silasbergen/CourseResources/blob/master/Data/StudentSurveyData.jmp)
+    Data](https://github.com/silasbergen/CourseResources/raw/master/Data/StudentSurveyData.jmp)
 -   [Subaru
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/subarus.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/subarus.jmp)
 -   [Titanic
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Titanic.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/Titanic.jmp)
 -   [Trombone
-    data](https://github.com/silasbergen/CourseResources/blob/master/Data/trombone.jmp)
+    data](https://github.com/silasbergen/CourseResources/raw/master/Data/trombone.jmp)
 
 
 
