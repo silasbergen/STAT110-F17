@@ -4,6 +4,7 @@
 
 [***View semester schedule***](Schedule.md)
 
+stuff
 ### Announcements
 
 Please install the latest available version of JMP onto your computer as soon as you can.
