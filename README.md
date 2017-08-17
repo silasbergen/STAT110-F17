@@ -11,8 +11,8 @@ Install Tableau onto your computer by going to Control Panel --> Add Programs fr
 
 ### Resources
 
-* JMP installation instructions
-* Tinkerplots installation instructions
+* [JMP installation instructions](https://silasbergen.github.io/CourseResources/JMP-installation-instructions.docx)
+* [Tinkerplots installation instructions](https://silasbergen.github.io/CourseResources/Tinkerplots.pdf)
 * [Tutoring services](http://www.winona.edu/tutoring/)
 
 
