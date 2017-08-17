@@ -5,9 +5,7 @@
 
 ### Announcements
 
-
-
-Install Tableau onto your computer by going to Control Panel --> Add Programs from the Network (must be on WSU WiFi)
+Please install the latest available version of JMP onto your computer as soon as you can.
 
 ### Resources
 
