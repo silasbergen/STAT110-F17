@@ -2,7 +2,7 @@
 
 ***[View Syllabus](Syllabus.md)***
 
-[***View semester schedule***](https://silasbergen.github.io/img/schedule.PNG)
+[***View semester schedule***](https://silasbergen.github.io/schedule.md)
 
 ### Announcements
 
