@@ -2,7 +2,7 @@
 
 ***[View Syllabus](Syllabus.md)***
 
-[***View semester schedule***](schedule.md)
+[***View semester schedule***](Schedule.md)
 
 ### Announcements
 
