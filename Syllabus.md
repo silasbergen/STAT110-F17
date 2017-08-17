@@ -1,12 +1,12 @@
-**STAT 110: Fundamentals of Statistics**
+### STAT 110: Fundamentals of Statistics
 
-**Course Syllabus Spring 2017**
+### Course Syllabus Spring 2017
 
-**INSTRUCTOR**: Dr. Silas Bergen
+### INSTRUCTOR: Dr. Silas Bergen
 
-**OFFICE:** Gildemeister 124D
+### OFFICE: Gildemeister 124D
 
-**Office Hours:** TBD
+### Office Hours: TBD
 
 **NOTE: Friday’s 9-11 office hours will be held in the Knowledge,
 Empowerment, Advocacy, and Pluralism (KEAP) center in Kryszko 162.**
@@ -50,8 +50,7 @@ activities that will promote your abilities to…
 The successful Stat 110 student will be able to…
 
 -   **use logical reasoning by studying mathematical patterns and
-    relationships;\
-    **One of the major goals of statistics is to find patterns and
+    relationships** One of the major goals of statistics is to find patterns and
     relationships in datasets. Hence almost all lectures, homework
     problems, and test questions in the course have the study of
     patterns for variables and relationships between variables as their
@@ -59,50 +58,47 @@ The successful Stat 110 student will be able to…
 
 -   **use mathematical models to describe real-world phenomena and to
     solve real-world problems - as well as understand the limitations of
-    models in making predictions and drawing conclusions;\
-    **In all of the textbooks and course notes used in STAT 110 the
+    models in making predictions and drawing conclusions** 
+    In all of the textbooks and course notes used in STAT 110 the
     majority of the problems are real-world based and are “word”
     problems. Further, all instructors require the students when doing
     such problems to write conclusions and discuss limitations.
 
 -   **organize data, communicate the essential features of the data, and
-    interpret the data in a meaningful way;\
-    **This is the heart of STAT 110. The topics covered are chosen so
+    interpret the data in a meaningful way**
+    This is the heart of STAT 110. The topics covered are chosen so
     that students who complete the course can organize data, communicate
     essential features of the data both numerically and graphically and
     provide interpretations/conclusions.
 
--   **do a critical analysis of scientific and other research;\
-    **The scientific method is discussed early in the course. The logic
+-   **do a critical analysis of scientific and other research**
+    The scientific method is discussed early in the course. The logic
     of hypothesis testing is discussed in detail. Further, on tests and
     written assignments the students are expected to go beyond a simple
     analysis and provide implications, interpretations, and conclusions.
 
 -   **extract correct information from tables and common graphical
     displays, such as line graphs, scatter plots, histograms, and
-    frequency tables;\
-    **All of these topics are explicitly taught in STAT 110 and are on
+    frequency tables** 
+    All of these topics are explicitly taught in STAT 110 and are on
     the course outline. Please note that “line graphs” is subsumed under
     “Frequency distributions and histograms”. Also, please note that
     “scatter plots” are more formally called “Bivariate displays” by
     statisticians.
 
 -   **express the relationships illustrated in graphical displays and
-    tables clearly and correctly in words;\
-    **As can be seen from the course outline, graphical displays and
+    tables clearly and correctly in words**
+    As can be seen from the course outline, graphical displays and
     tables cover a significant portion of the course content. As
     discussed above, interpretation in words is expected by all
     instructors on homework and tests.
 
 -   **use appropriate technology to describe and solve quantitative
-    problems.\
-    **As stated on the course outline, “It is required that at least one
+    problems.** 
+    As stated on the course outline, “It is required that at least one
     assignment using an appropriate computer package be included in the
     course.” In this section of STAT 110, we will primarily use a
     statistical software package called JMP.
-
-**\
-**
 
 ***Assessment tasks***
 
@@ -150,17 +146,17 @@ assignments:
 -   I am there in class with you, so as to better answer your questions
     as they arise.
 
-> All students will be required to work in groups, and there will be a
-> limit of 3 people per group. Students will submit their assignments to
-> D2L, and all students in a group will get the same homework grade. The
-> homework practice concepts learned in class. Homework assignment will
-> often require use of JMP or Tinkerplots. **Homework that is submitted
-> after I have uploaded a key will receive a 0.**
+I will alternate between randomly assigning you into groups (usually of 3), and 
+allowing you to select your own groups.  Students will submit their assignments to
+ D2L, and all students in a group will get the same homework grade. The
+ homework practice concepts learned in class. Homework assignment will
+ often require use of JMP or Tinkerplots. **Homework that is submitted
+ after I have uploaded a key will receive a 0.**
 
 *Two midterm exams (30%)*
 
 These exams will require you to demonstrate your *understanding* of the
-material as opposed to your ability to *memoriz*e certain concepts. The
+material as opposed to your ability to *memorize* certain concepts. The
 format will primarily be a combination of short answer, multiple choice,
 and T/F. Exam dates will be announced at least one week in advance.
 Rescheduling of an exam will be permitted only if there is a
@@ -200,27 +196,15 @@ Also having a FULL BATTERY (or nearly full) is really beneficial!
 
 ***Academic integrity policy***
 
-All students must abide by Winona State University’s Academic Integrity
-Policy:
+All students must abide by Winona State University’s [Academic Integrity
+Policy](http://www.winona.edu/sld/academicintegrity.asp). Note that both copying
+another student’s work and allowing someone to copy your work are clear violations of this
+policy. If there is reasonable evidence of copying another individual’s work, it will be construed as
+an act of plagiarism. The first occurrence of violating the academic integrity policy will result
+in a significant loss of points on that specific homework assignment or exam; the second occurrence will
+result in failure of the course.
 
-http://www.winona.edu/sld/academicintegrity.asp. Note that both copying
-another student’s work
-
-and allowing someone to copy your work are clear violations of this
-policy. If there is reasonable
-
-evidence of copying another individual’s work, it will be construed as
-an act of plagiarism. The
-
-first occurrence of violating the academic integrity policy will result
-in a significant loss of points
-
-on that specific homework assignment or exam; the second occurrence will
-result in failure of the
-
-course.
-
-***Expectations ***
+***Expectations***
 
 In this course, I expect each of you:
 
@@ -242,7 +226,7 @@ In return, you can expect the following from me:
 
 -   an effort to make the learning atmosphere productive and enjoyable.
 
-> **DETAILS ABOUT CAMPUS RESOURCES**
+***DETAILS ABOUT CAMPUS RESOURCES***
 
 -   Free tutoring is available via tutoring services. You can schedule
     appointments with tutors during times that fit with your schedule.
@@ -259,34 +243,20 @@ In return, you can expect the following from me:
 
 <!-- -->
 
--   Academic advising
-
--   Help exploring major and minor options
-
--   Career exploration
-
--   Assistance in navigating the Financial Aid system
-
--   Budget and money management skills
-
--   Tutoring and/or supplemental instruction
-
--   Study skills coaching
-
--   Time management training
-
--   Leadership skill development
-
--   Support for students with documented disabilities
-
--   Support for students who are parents
-
--   Assistance preparing for graduate and professional programs
-
--   Assistance with writing resumes and cover letters
-
--   Cultural and social enrichment opportunities
-
+> -   Academic advising
+> -   Help exploring major and minor options
+> -   Career exploration
+> -   Assistance in navigating the Financial Aid system
+> -   Budget and money management skills
+> -   Tutoring and/or supplemental instruction
+> -   Study skills coaching
+> -   Time management training
+> -   Leadership skill development
+> -   Support for students with documented disabilities
+> -   Support for students who are parents
+> -   Assistance preparing for graduate and professional programs
+> -   Assistance with writing resumes and cover letters
+> -   Cultural and social enrichment opportunities
 -   Referrals to on-campus and off-campus resources
 
 <!-- -->
@@ -313,19 +283,19 @@ In return, you can expect the following from me:
 
 <!-- -->
 
--   Race, Ethnicity and National Origin
+> -   Race, Ethnicity and National Origin
 
--   Gender
+> -   Gender
 
--   Age
+> -   Age
 
--   Religion and Beliefs
+> -   Religion and Beliefs
 
--   Ability Levels
+> -   Ability Levels
 
--   Economic Status
+> -   Economic Status
 
--   Gender and Sexual Identity
+> -   Gender and Sexual Identity
 
 <!-- -->
 
@@ -347,21 +317,19 @@ specific accommodations, please speak with the instructor early in the
 semester about your concerns and what we can do together to help you
 become an active and engaged member of our class and community.
 
-*TENTATIVE* COURSE OUTLINE:
-===========================
+***Tentative course outline***
 
 1.  Introduction to data 
-    =====================
+    
 
 2.  Descriptive Methods for a Single Variable
-    =========================================
+    
 
     a.  Barplots, counts, percents
 
     b.  Histograms, mean/median, quantiles, standard deviation
 
 3.  Describing associations between 2 variables 
-    ============================================
 
     a.  Mosaic plots
 
@@ -369,13 +337,13 @@ become an active and engaged member of our class and community.
 
     c.  Scatterplots
 
-4.  **Multivariable thinking**
+4.  Multivariable thinking
 
     a.  Confounding
 
     b.  Confounding adjustment
 
-5.  **Introduction to inferential thinking**
+5.  Introduction to inferential thinking
 
     a.  Introduction to Statistical Thinking
 
@@ -384,7 +352,6 @@ become an active and engaged member of our class and community.
     c.  The Importance of Random Sampling
 
 6.  Methods for a Single Categorical Variable
-    =========================================
 
     a.  Descriptive Methods
 
@@ -393,44 +360,38 @@ become an active and engaged member of our class and community.
     c.  Using the Binomial Probability Model to Make Decisions
 
     d.  Formal Statistical Inference (Binomial Exact Test, Confidence
-        > Interval for a Single
+        Interval for a Single Proportion, Chi-Square Goodness of Fit Test)
 
-> Proportion, Chi-Square Goodness of Fit Test)
-
-1.  Methods for Two or More Categorical Variables
-    =============================================
+7.  Methods for Two or More Categorical Variables
 
     a.  Descriptive Methods
 
     b.  More Descriptive Methods: Relative Risk and Odds Ratios
 
-    c.  Inferences for Comparing Two Proportions (Fisher’s Exact Test,
-        > Chi-Square Test, and Confidence Interval for a Difference in
-        > Proportions)
+    c.  Inferences for Comparing Two Proportions (Chi-Square Test, and Confidence Interval for a Difference in or ratio of
+        Proportions)
 
     d.  Understanding the Basics of Experimental Design and Correlation
-        > vs. Causation
+         vs. Causation
 
     e.  Inferences for Comparing Several Proportions Across Another
-        > Variable (Chi-Square Test)
+         Variable (Chi-Square Test)
 
-2.  Inferential Methods for a Single Numerical Variable
-    ===================================================
+8.  Inferential Methods for a Single Numerical Variable
 
     a.  Inference for a Single Mean (t-test and confidence interval for
-        > a single mean)
+        a single mean)
 
     b.  Inference for Comparing Two Means with Dependent Groups (paired
-        > t-test, confidence interval for a mean difference)
+        t-test, confidence interval for a mean difference)
 
     c.  Inference for Comparing Two Means with Independent Groups
-        > (t-test for independent samples, confidence interval for a
-        > difference in means)
+        (t-test for independent samples, confidence interval for a
+        difference in means)
 
     d.  Inference for Comparing Several Group Means (ANOVA)
 
 3.  Methods for Two or More Numerical Variables
-    ===========================================
 
     a.  Descriptive Methods (correlation, scatterplots)
 
