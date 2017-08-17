@@ -15,7 +15,6 @@ Empowerment, Advocacy, and Pluralism (KEAP) center in Kryszko 162.**
 
 -   **JMP –** available from WSU network for free. Download instructions
     can be on the course webpage
-
 -   **Tinkerplots** – costs \$7. [Download instructions](https://silasbergen.github.io/CourseResources/Tinkerplots.pdf)
 
 ***Optional text***
@@ -37,12 +36,9 @@ activities that will promote your abilities to…
 
 -   **Illustrate historical and contemporary applications of
     mathematical/logical systems;**
-
 -   **Clearly express mathematical/logical ideas in writing;**
-
 -   **Explain what constitutes a valid mathematical/logical argument
     (proof); and**
-
 -   **Apply higher-order problem-solving and/or modeling strategies.**
 
 ***Additional learning outcomes***
@@ -123,26 +119,21 @@ There are a number of drawbacks to coming to class only to hear me
 lecture:
 
 -   It may be hard to pay attention
-
 -   I may not explain concepts in a way that is the best way for *you*
     to understand
-
 -   I get tired of hearing myself talk!
 
 Thus, roughly half of the in-class time will be spent doing group
 homework assignments. There are a number of benefits to in-class group
 assignments:
 
--   No (or at least, very little) homework outside of class!
-
+-   No (or at least, very little) homework outside of class!  
 -   You get to explain concepts to, and hear explanations from, your
     classmates. It’s very likely that I will explain a concept in a way
     you did not understand, but a classmate will explain it to you in a
     way that you can understand.
-
 -   Those of you who *do* understand a concept will understand it *ever
     better* when you try to explain it to a classmate!
-
 -   I am there in class with you, so as to better answer your questions
     as they arise.
 
@@ -174,25 +165,17 @@ well as material learned over the course of the entire semester.
 Final grades will be a percent that accounts for work on homework and
 exams. Final grades will be assigned as follows:
 
-90-100%: A
-
-80-89%: Guaranteed at least a B
-
-70-79%: Guaranteed at least a C
-
-60-69%: Guaranteed at least a D
-
-&lt;60%: No lower than F
+* 90-100%: A
+* 80-89%: Guaranteed at least a B
+* 70-79%: Guaranteed at least a C
+* 60-69%: Guaranteed at least a D
+* &lt;60%: No lower than F
 
 ***Laptops***
 
 I encourage you to bring your laptop to class every day so that our
-classroom can function as a
-
-computer lab. I expect you to use your laptop in class for **ACADEMIC
-PURPOSES ONLY**!
-
-Also having a FULL BATTERY (or nearly full) is really beneficial!
+classroom can function as a computer lab. I expect you to use your laptop in class for **ACADEMIC
+PURPOSES ONLY**!  Also having a FULL BATTERY (or nearly full) is really beneficial!
 
 ***Academic integrity policy***
 
@@ -257,7 +240,7 @@ In return, you can expect the following from me:
 > -   Assistance preparing for graduate and professional programs
 > -   Assistance with writing resumes and cover letters
 > -   Cultural and social enrichment opportunities
--   Referrals to on-campus and off-campus resources
+> -   Referrals to on-campus and off-campus resources
 
 <!-- -->
 
