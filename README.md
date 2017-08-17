@@ -9,7 +9,7 @@ Please install the latest available version of JMP onto your computer as soon as
 
 ### Resources
 
-* [JMP installation instructions](https://silasbergen.github.io/CourseResources/JMP-installation-instructions.docx)
+* [JMP installation instructions](https://silasbergen.github.io/CourseResources/JMP_installation.md)
 * [Tinkerplots installation instructions](https://silasbergen.github.io/CourseResources/Tinkerplots.pdf)
 * [Tutoring services](http://www.winona.edu/tutoring/)
 
