@@ -52,7 +52,7 @@ Install Tableau onto your computer by going to Control Panel --> Add Programs fr
 -   [Subaru
     data](https://github.com/silasbergen/CourseResources/blob/master/Data/subarus.jmp)
 -   [Titanic
-    data](hhttps://github.com/silasbergen/CourseResources/blob/master/Data/Titanic.jmp)
+    data](https://github.com/silasbergen/CourseResources/blob/master/Data/Titanic.jmp)
 -   [Trombone
     data](https://github.com/silasbergen/CourseResources/blob/master/Data/trombone.jmp)
 
