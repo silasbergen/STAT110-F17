@@ -1,6 +1,6 @@
-### STAT 110: Fundamentals of Statistics
+### STAT 110: Fundamentals of Statistics Syllabus
 
-### Course Syllabus Spring 2017
+### Fall 2017
 
 ### INSTRUCTOR: Dr. Silas Bergen
 
