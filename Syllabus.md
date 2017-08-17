@@ -284,17 +284,11 @@ In return, you can expect the following from me:
 <!-- -->
 
 > -   Race, Ethnicity and National Origin
-
 > -   Gender
-
 > -   Age
-
 > -   Religion and Beliefs
-
 > -   Ability Levels
-
 > -   Economic Status
-
 > -   Gender and Sexual Identity
 
 <!-- -->
