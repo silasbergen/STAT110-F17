@@ -1,11 +1,7 @@
 ### STAT 110: Fundamentals of Statistics Syllabus
-
 ### Fall 2017
-
 ### INSTRUCTOR: Dr. Silas Bergen
-
 ### OFFICE: Gildemeister 124D
-
 ### Office Hours: TBD
 
 **NOTE: Friday’s 9-11 office hours will be held in the Knowledge,
