@@ -1,7 +1,7 @@
 ## Course home page
 
 ***[View Syllabus](Syllabus.md)***
-
+[***View semester schedule***](silasbergen.github.io/img/schedule.PNG)
 
 ### Announcements
 
