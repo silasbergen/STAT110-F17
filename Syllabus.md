@@ -6,16 +6,10 @@
 
 **OFFICE:** Gildemeister 124D
 
-**E-mail:** sbergen@winona.edu
-
-**Office Phone:** (507) 457-2208
-
-**Office Hours:** MWF 9-11 and 3-4; TH 3:30-4
+**Office Hours:** TBD
 
 **NOTE: Friday’s 9-11 office hours will be held in the Knowledge,
 Empowerment, Advocacy, and Pluralism (KEAP) center in Kryszko 162.**
-
-**Course page**: <http://course1.winona.edu/sbergen/Stat110.html>
 
 ***Required software ***
 
