@@ -11,7 +11,7 @@
 **NOTE: Friday’s 9-11 office hours will be held in the Knowledge,
 Empowerment, Advocacy, and Pluralism (KEAP) center in Kryszko 162.**
 
-***Required software ***
+***Required software***
 
 -   **JMP –** available from WSU network for free. Download instructions
     can be on the course webpage
@@ -25,11 +25,11 @@ There is no text required for this course. However, if you would like to
 refer to a textbook, a good reference is *Unlocking the Power of Data*
 by Lock, Lock, Lock, Lock, and Lock.
 
-***Prerequisites* **
+***Prerequisites***
 
 Qualifying score on the mathematics placement exam or MATH 050.
 
-***Basic Skills Learning Outcomes* **
+***Basic Skills Learning Outcomes***
 
 This course can be used to satisfy the University Studies Program’s
 requirements for Basic Skills in Mathematics or Goal Area 4 under the
