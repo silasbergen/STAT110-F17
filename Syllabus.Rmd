@@ -14,8 +14,8 @@ Empowerment, Advocacy, and Pluralism (KEAP) center in Kryszko 162.**
 
 ***Required software***
 
--   **JMP -** available from WSU network for free. [Download instructions](https://silasbergen.github.io/CourseResources/JMP-installation-instructions.docx)
--   **Tinkerplots** - costs \$7. [Download instructions](https://silasbergen.github.io/CourseResources/Tinkerplots.pdf)
+-   **JMP -** available from WSU network for free. [Download instructions](https://silasbergen.github.io/JMP_installation.html)
+-   **Tinkerplots** - costs \$7. [Download instructions](https://silasbergen.github.io/Tinkerplots.pdf)
 
 ***Optional text***
 
