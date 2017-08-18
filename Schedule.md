@@ -1,4 +1,4 @@
-[(*return to home page*)](README.md)
+[(*return to home page*)](index.md)
 
 ### My schedule for this semester:
 
