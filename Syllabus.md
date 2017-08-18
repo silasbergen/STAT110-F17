@@ -1,4 +1,4 @@
-[(*return to home page*)](README.md)
+[(*return to home page*)](index.md)
 
 ### STAT 110: Fundamentals of Statistics Syllabus
 ### Fall 2017
