@@ -3,6 +3,8 @@ title: "Stat 110: Fundamentals of statistics"
 author: Fall 2017 
 ---
 
+### [Office Hours](Schedule.html)
+
 ### Announcements
 
 Please install the latest available version of JMP onto your computer as soon as you can.
