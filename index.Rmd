@@ -23,8 +23,8 @@ Please install the latest available version of JMP onto your computer as soon as
 
 ### Notes
 
- * Note set 1
-
+ * Lecture 1: Introduction to data | [PPT](https://www.dropbox.com/s/sv1s4tq879y97ua/1%20-%20Introduction%20to%20data.pptx?dl=0) | [PDF](https://www.dropbox.com/s/qwwjiwlqlj7tvkz/1%20-%20Introduction%20to%20data.pdf?dl=0) 
+ * Lecture 2: Summarizing a single variable | [PPT](https://www.dropbox.com/s/mztaipz6jo2w7ut/2%20-%20Summarizing%20a%20single%20variable.pptx?dl=0) | [PDF](https://www.dropbox.com/s/b3wwwk14937ce3p/2%20-%20Summarizing%20a%20single%20variable.pdf?dl=0)
 
 ### Homework
 
