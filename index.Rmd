@@ -28,6 +28,8 @@ Please install the latest available version of JMP onto your computer as soon as
 
 ### Homework
 
+* [Homework 1 (Due 8/27)](https://www.dropbox.com/s/oaa5y8q9odhm79y/HW1.docx?dl=0)
+
 ### Data
 
 
