@@ -25,10 +25,16 @@ Please install the latest available version of JMP onto your computer as soon as
 
  * Lecture 1: Introduction to data | [PPT](https://www.dropbox.com/s/sv1s4tq879y97ua/1%20-%20Introduction%20to%20data.pptx?dl=0) | [PDF](https://www.dropbox.com/s/qwwjiwlqlj7tvkz/1%20-%20Introduction%20to%20data.pdf?dl=0) 
  * Lecture 2: Summarizing a single variable | [PPT](https://www.dropbox.com/s/mztaipz6jo2w7ut/2%20-%20Summarizing%20a%20single%20variable.pptx?dl=0) | [PDF](https://www.dropbox.com/s/b3wwwk14937ce3p/2%20-%20Summarizing%20a%20single%20variable.pdf?dl=0)
+ * Lecture 3: associations between variables, confounding, and study design | [PPT](https://www.dropbox.com/s/xs0nkkgsr42lb6h/3%20-%20Associations%20between%20variables.pptx?dl=0) | [PDF](https://www.dropbox.com/s/142aeehcbe3v7ww/3%20-%20Associations%20between%20variables.pdf?dl=0)
 
 ### Homework
 
-* [Homework 1 (Due 8/27)](https://www.dropbox.com/s/oaa5y8q9odhm79y/HW1.docx?dl=0)
+* [Homework 1 (Due 8/29)](https://www.dropbox.com/s/oaa5y8q9odhm79y/HW1.docx?dl=0)
+
+
+### Practice problems
+
+* [FEV practice problem](https://www.dropbox.com/s/id0t3svswof1y3j/FEV-Confounding.docx?dl=0)
 
 ### Data
 
@@ -37,6 +43,7 @@ Please install the latest available version of JMP onto your computer as soon as
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Birthweight.jmp)
 -   [BRFSS
     data](https://www.dropbox.com/s/lbqr85a1to664n9/BRFSS.jmp?dl=0)
+-   [California expenditures data](https://www.dropbox.com/s/x22xv6aljppse5b/CA_Expenditures.jmp?dl=0)
 -   [FEV
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/FEVdata.jmp)
 -   [HIV
