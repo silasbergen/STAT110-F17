@@ -26,7 +26,8 @@ author: Fall 2017
  * Lecture 2: Summarizing a single variable | [PPT](https://www.dropbox.com/s/mztaipz6jo2w7ut/2%20-%20Summarizing%20a%20single%20variable.pptx?dl=0) | [PDF](https://www.dropbox.com/s/b3wwwk14937ce3p/2%20-%20Summarizing%20a%20single%20variable.pdf?dl=0)
  * Lecture 3: associations between variables, confounding, and study design | [PPT](https://www.dropbox.com/s/xs0nkkgsr42lb6h/3%20-%20Associations%20between%20variables.pptx?dl=0) | [PDF](https://www.dropbox.com/s/142aeehcbe3v7ww/3%20-%20Associations%20between%20variables.pdf?dl=0) | [Part 1 video](https://mediaspace.mnscu.edu/media/Stat+110A+F17A+Lecture+3+part+1/0_871iwtrh) | [Part 2 video](https://mediaspace.mnscu.edu/media/Stat+110A+F17A+Lecture+3+part+2/0_atx7myar)
  * Lecture 4: populations; parameters; samples; statistics | [PPT](https://www.dropbox.com/s/1269wlc08kprnl1/4%20-%20Populations%20and%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/fyzd1ca0y252m1h/4%20-%20Populations%20and%20samples.pdf?dl=0) |  [Video recording](https://mediaspace.mnscu.edu/media/Stat+110A+F17A+Lecture+4+-+populations%2C+parameters%2C+samples%2C+statistics/0_sb2ljx7v) 
-* Lecture 5: Introduction to inference | [PPT](https://www.dropbox.com/s/y1e505xyomw7l4i/5%20-%20Intro%20to%20Inference.pptx?dl=0) | [PDF](https://www.dropbox.com/s/bs3j1u8pxty8j6o/5%20-%20Intro%20to%20Inference.pdf?dl=0)
+* Lecture 5: Introduction to inference | [PPT](https://www.dropbox.com/s/y1e505xyomw7l4i/5%20-%20Intro%20to%20Inference.pptx?dl=0) | [PDF](https://www.dropbox.com/s/bs3j1u8pxty8j6o/5%20-%20Intro%20to%20Inference.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110-F17A+Lecture+5/0_vghw2h1k)
+* Lecture 6: Hypothesis testing | [PPT](https://www.dropbox.com/s/jfjg5tvefrm6pgw/6%20-%20Hypothesis%20testing.pptx?dl=0) | [PDF](https://www.dropbox.com/s/befmg5n3mf0hx96/6%20-%20Hypothesis%20testing.pdf?dl=0)
 
 ### Homework
 
@@ -39,6 +40,7 @@ author: Fall 2017
 
 * [Lecture 3 FEV practice problem](https://www.dropbox.com/s/id0t3svswof1y3j/FEV-Confounding.docx?dl=0)
 * [Lecture 5 intro to inference practice problems](https://www.dropbox.com/s/1qekwneomvsp5yw/Simulations-wormhole-swain-alabama.docx?dl=0)
+* [Lecture 6 Hypothesis testing practice problem](https://www.dropbox.com/s/bc63xrg4apc7t0n/Hypothesis%20testing.docx?dl=0)
 
 ### Data
 
