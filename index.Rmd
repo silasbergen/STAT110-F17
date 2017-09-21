@@ -7,6 +7,7 @@ author: Fall 2017
 
 ### Announcements
 
+Exam 1 will take place Thursday, September 28.  Each student must bring a **large blue scantron**, available for free in the bookstore.  Each student is also allowed one 8.5x11" sheet of printer paper as a "cheat sheet" with notes front/back, and a calculator.  A practice exam and key are available below.
 
 ### Resources
 
@@ -42,6 +43,10 @@ author: Fall 2017
 * [Lecture 3 FEV practice problem](https://www.dropbox.com/s/id0t3svswof1y3j/FEV-Confounding.docx?dl=0)
 * [Lecture 5 intro to inference practice problems](https://www.dropbox.com/s/1qekwneomvsp5yw/Simulations-wormhole-swain-alabama.docx?dl=0)
 * [Lecture 6 Hypothesis testing practice problem](https://www.dropbox.com/s/bc63xrg4apc7t0n/Hypothesis%20testing.docx?dl=0)
+
+### Exams
+
+* [Practice exam 1](https://www.dropbox.com/s/nvboy135cq62ikj/Exam1-S17.docx?dl=0) | [KEY](https://www.dropbox.com/s/p3oodthq1rqc8t9/Exam1-S17%20-%20KEY.docx?dl=0)
 
 ### Data
 
