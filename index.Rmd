@@ -14,7 +14,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [JMP installation instructions](https://silasbergen.github.io/JMP_installation.html)
 * [Tinkerplots installation instructions](https://silasbergen.github.io/Tinkerplots.pdf)
 * [Tutoring services](http://www.winona.edu/tutoring/)
-
+* [Binomial spreadsheet](https://www.dropbox.com/s/85xnt7xk9jjtt14/BinomialProbabilities.xlsx?dl=0)
 
 ### Extra credit
 
@@ -29,6 +29,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
  * Lecture 4: populations; parameters; samples; statistics | [PPT](https://www.dropbox.com/s/1269wlc08kprnl1/4%20-%20Populations%20and%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/fyzd1ca0y252m1h/4%20-%20Populations%20and%20samples.pdf?dl=0) |  [Video recording](https://mediaspace.mnscu.edu/media/Stat+110A+F17A+Lecture+4+-+populations%2C+parameters%2C+samples%2C+statistics/0_sb2ljx7v) 
 * Lecture 5: Introduction to inference | [PPT](https://www.dropbox.com/s/y1e505xyomw7l4i/5%20-%20Intro%20to%20Inference.pptx?dl=0) | [PDF](https://www.dropbox.com/s/bs3j1u8pxty8j6o/5%20-%20Intro%20to%20Inference.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110-F17A+Lecture+5/0_vghw2h1k)
 * Lecture 6: Hypothesis testing | [PPT](https://www.dropbox.com/s/jfjg5tvefrm6pgw/6%20-%20Hypothesis%20testing.pptx?dl=0) | [PDF](https://www.dropbox.com/s/befmg5n3mf0hx96/6%20-%20Hypothesis%20testing.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110A+F17+-+Lecture+6/0_tusygxeh)
+* Lecture 7: Exact testing | [PPT](https://www.dropbox.com/s/skr63swl5vpog5d/7%20-%20Exact%20hypothesis%20testing.pptx?dl=0)  | [PDF](https://www.dropbox.com/s/tjn9sh1o1a6cc1h/7%20-%20Exact%20hypothesis%20testing.pdf?dl=0) 
 
 ### Homework
 
@@ -43,6 +44,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Lecture 3 FEV practice problem](https://www.dropbox.com/s/id0t3svswof1y3j/FEV-Confounding.docx?dl=0)
 * [Lecture 5 intro to inference practice problems](https://www.dropbox.com/s/1qekwneomvsp5yw/Simulations-wormhole-swain-alabama.docx?dl=0)
 * [Lecture 6 Hypothesis testing practice problem](https://www.dropbox.com/s/bc63xrg4apc7t0n/Hypothesis%20testing.docx?dl=0)
+* [Lecture 7 Exact Test problems](https://www.dropbox.com/s/iz01gadmv4aw756/Binomial_Exact_Test.docx?dl=0)
 
 ### Exams
 
