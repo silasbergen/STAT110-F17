@@ -16,9 +16,11 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Tutoring services](http://www.winona.edu/tutoring/)
 * [Binomial spreadsheet](https://www.dropbox.com/s/85xnt7xk9jjtt14/BinomialProbabilities.xlsx?dl=0)
 
+<!--
 ### Extra credit
 
 * 
+-->
 
 
 ### Notes
@@ -30,6 +32,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * Lecture 5: Introduction to inference | [PPT](https://www.dropbox.com/s/y1e505xyomw7l4i/5%20-%20Intro%20to%20Inference.pptx?dl=0) | [PDF](https://www.dropbox.com/s/bs3j1u8pxty8j6o/5%20-%20Intro%20to%20Inference.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110-F17A+Lecture+5/0_vghw2h1k)
 * Lecture 6: Hypothesis testing | [PPT](https://www.dropbox.com/s/jfjg5tvefrm6pgw/6%20-%20Hypothesis%20testing.pptx?dl=0) | [PDF](https://www.dropbox.com/s/befmg5n3mf0hx96/6%20-%20Hypothesis%20testing.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110A+F17+-+Lecture+6/0_tusygxeh)
 * Lecture 7: Exact testing | [PPT](https://www.dropbox.com/s/skr63swl5vpog5d/7%20-%20Exact%20hypothesis%20testing.pptx?dl=0)  | [PDF](https://www.dropbox.com/s/tjn9sh1o1a6cc1h/7%20-%20Exact%20hypothesis%20testing.pdf?dl=0) | [Video](https://mediaspace.mnscu.edu/media/Stat110AF17-Lecture+7/0_5kt10il3)
+* Lecture 8: Confidence intervals | [PPT](https://www.dropbox.com/s/gtczr0dy215jb7c/8%20-%20Confidence%20intervals.pptx?dl=0) | [PDF](https://www.dropbox.com/s/8rq829u9rl5zk24/8%20-%20Confidence%20intervals.pdf?dl=0)
 
 ### Homework
 
@@ -45,6 +48,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Lecture 5 intro to inference practice problems](https://www.dropbox.com/s/1qekwneomvsp5yw/Simulations-wormhole-swain-alabama.docx?dl=0)
 * [Lecture 6 Hypothesis testing practice problem](https://www.dropbox.com/s/bc63xrg4apc7t0n/Hypothesis%20testing.docx?dl=0)
 * [Lecture 7 Exact Test problems](https://www.dropbox.com/s/iz01gadmv4aw756/Binomial_Exact_Test.docx?dl=0) | [KEY](https://www.dropbox.com/s/a0mceg36yaqhr4u/Binomial_Exact_Test_KEY.docx?dl=0)
+* [Lecture 8 confidence interval problems](https://www.dropbox.com/s/ibim642qbhwu8xv/Confidence%20intervals.docx?dl=0)
 
 ### Exams
 
