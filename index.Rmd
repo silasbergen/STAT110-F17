@@ -52,6 +52,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Lecture 6 Hypothesis testing practice problem](https://www.dropbox.com/s/bc63xrg4apc7t0n/Hypothesis%20testing.docx?dl=0)
 * [Lecture 7 Exact Test problems](https://www.dropbox.com/s/iz01gadmv4aw756/Binomial_Exact_Test.docx?dl=0) | [KEY](https://www.dropbox.com/s/a0mceg36yaqhr4u/Binomial_Exact_Test_KEY.docx?dl=0)
 * [Preliminary Lecture 9 chi-square problems](https://www.dropbox.com/s/p25a6kley112i7s/Chisquare-preliminary-activity.docx?dl=0)
+* [Additional chi-square practice problem](https://www.dropbox.com/s/6d33itu2vnf7isy/Chisquare-additional.docx?dl=0)
 
 ### Exams
 
