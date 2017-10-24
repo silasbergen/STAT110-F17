@@ -53,6 +53,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Lecture 7 Exact Test problems](https://www.dropbox.com/s/iz01gadmv4aw756/Binomial_Exact_Test.docx?dl=0) | [KEY](https://www.dropbox.com/s/a0mceg36yaqhr4u/Binomial_Exact_Test_KEY.docx?dl=0)
 * [Preliminary Lecture 9 chi-square problems](https://www.dropbox.com/s/p25a6kley112i7s/Chisquare-preliminary-activity.docx?dl=0)
 * [Additional chi-square practice problem](https://www.dropbox.com/s/6d33itu2vnf7isy/Chisquare-additional.docx?dl=0)
+* [Even more additional chi-square practice problems (on parole violation prediction)](https://www.dropbox.com/s/zoagtpvpkvvgclp/Chisquare-final.docx?dl=0)
 
 ### Exams
 
@@ -78,6 +79,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/LymphNodes.jmp)
 -   [Pancreatic cancer
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Pancreatic_Cancer_Data.jmp)
+-   [Parole prediction data](https://www.dropbox.com/s/ehdrph7ki0ikhzl/Parole_Prediction.jmp?dl=0)  
 -   [Pew research
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/PewFacebookData.jmp)
 -   [Smiles
