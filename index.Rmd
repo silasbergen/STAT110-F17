@@ -68,6 +68,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 
 -   [Birth weight
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Birthweight.jmp)
+- [Body Image](https://www.dropbox.com/s/se0fo4xi45zab5v/Body_Image.jmp?dl=0)
 -   [BRFSS
     data](https://www.dropbox.com/s/lbqr85a1to664n9/BRFSS.jmp?dl=0)
 -   [California expenditures data](https://www.dropbox.com/s/x22xv6aljppse5b/CA_Expenditures.jmp?dl=0)
@@ -79,6 +80,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/IraqWar.jmp)
 -   [Lions
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Lions.jmp)
+- [Lower back pain](https://www.dropbox.com/s/m3xysaha3lw2xct/Lower_back_pain.jmp?dl=0)
 -   [Lymphedenopathy
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/LymphNodes.jmp)
 -   [Pancreatic cancer
