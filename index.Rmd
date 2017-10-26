@@ -36,6 +36,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * Lecture 7: Exact testing | [PPT](https://www.dropbox.com/s/skr63swl5vpog5d/7%20-%20Exact%20hypothesis%20testing.pptx?dl=0)  | [PDF](https://www.dropbox.com/s/tjn9sh1o1a6cc1h/7%20-%20Exact%20hypothesis%20testing.pdf?dl=0) | [Video](https://mediaspace.mnscu.edu/media/Stat110AF17-Lecture+7/0_5kt10il3)
 * Lecture 8: Confidence intervals | [PPT](https://www.dropbox.com/s/gtczr0dy215jb7c/8%20-%20Confidence%20intervals.pptx?dl=0) | [PDF](https://www.dropbox.com/s/8rq829u9rl5zk24/8%20-%20Confidence%20intervals.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat+110A+F17-Lecture+8/0_vtuxty1l)
 * Lecture 9: Relationships between 2 categorical variables | [PPT](https://www.dropbox.com/s/6827lwc2kzkwxjf/9%20-%20Inference%20for%20relationships%20between%202%20categorical%20variables.pptx?dl=0) | [PDF](https://www.dropbox.com/s/nhwsgyqlvlagaov/9%20-%20Inference%20for%20relationships%20between%202%20categorical%20variables.pdf?dl=0) | [Video recording (part 1)](https://mediaspace.mnscu.edu/media/Stat+110A+F17+-+Lecture+9%2C+part+1/0_ja8u8fiz) | [Video recording (part 2)](https://mediaspace.mnscu.edu/media/Stat+110-F17A+Lecture+9%2C+part+2/0_fnghn2rz)
+* Lecture 10: Comparing risks | [PPT](https://www.dropbox.com/s/f509mjzrzj80azg/10%20-%20Comparing%20risks.pptx?dl=0) | [PDF](https://www.dropbox.com/s/cr8dckk1fww44if/10%20-%20Comparing%20risks.pdf?dl=0)
 
 ### Homework
 
@@ -45,6 +46,7 @@ Exam 1 will take place Thursday, September 28.  Each student must bring a **larg
 * [Homework 4 (Due 9/24)](https://www.dropbox.com/s/mhjmwftu8mgzhxh/HW4.docx?dl=0) | [KEY](https://www.dropbox.com/s/bc5rzwxcpuhgu4o/HW4-KEY.docx?dl=0)
 * [Homework 5 (Due 10/8)](https://www.dropbox.com/s/mpo6xcbgg8r2uh6/HW5.docx?dl=0) | [KEY](https://www.dropbox.com/s/1v3biuqyb8i8f7j/HW5-KEY.docx?dl=0)
 * [Homework 6 (Due 10/19)](https://www.dropbox.com/s/h7apvw26zqcsync/HW6.docx?dl=0) | [KEY](https://www.dropbox.com/s/d68i9y3ikqerwp6/HW6-KEY.docx?dl=0)
+* [Homework 7 (Due 10/29)](https://www.dropbox.com/s/a0afkd6gu2n2y73/HW7.docx?dl=0)
 
 
 ### Practice problems
