@@ -5,11 +5,30 @@ author: Fall 2017
 
 ### [Office Hours](Schedule.html)
 
-<!--
-### Announcements
 
-Exam 1 will take place Thursday, September 28.  Each student must bring a **large blue scantron**, available for free in the bookstore.  Each student is also allowed one 8.5x11" sheet of printer paper as a "cheat sheet" with notes front/back, and a calculator.  A practice exam and key are available below.
--->
+### Extra credit opportunities
+
+1.  (Worth 3% of total grade).  Find 3 articles published in scholarly journals (in a topic that interests you) that utilize the chi-square test.  For each, answer the following questions:
+   
+   * What is the chi-square test used for in the article?  
+   * What was the result of the test?  
+
+The [WSU library website](https://www.winona.edu/library/) is a great place to begin your search.  Using [this link](https://www.winona.edu/library/):
+
+  * Click "Periodicals"
+  * Enter keyword for journal of choice (e.g., "nursing")
+  * Choose a journal
+  * For that journal, enter keyword "chi-square" to search articles in that journal
+  
+For each of the 3 articles you find, submit answers to the above questions and the links to the relevant articles to the appropriate submission folder on D2L.  Due date:  November 9, 11:59pm.  
+
+2. (Worth 2% of total grade).  Watch the original Netflix documentary *13^th^* and answer the following questions.  Submit to D2L by: November 9, 11:59pm.  
+Answer the following about the documentary 13th:
+
+* Name a relationship between two variables discussed in the film that could be appropriately described by a mosaic plot.
+* What is an example of a "research hypothesis" that could be asked with data shown in the film?  
+* What is one thing you learned from this film that you did not know before?  
+* What piece of information from this film most surprised you? 
 
 ### Resources
 
