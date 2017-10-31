@@ -101,6 +101,7 @@ Answer the following about the documentary 13th:
 -   [Lions
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Lions.jmp)
 - [Lower back pain](https://www.dropbox.com/s/m3xysaha3lw2xct/Lower_back_pain.jmp?dl=0)
+- [Lung cancer data](https://www.dropbox.com/s/atthasd2ce0xt7f/Drink-Smoke-Cancer.jmp?dl=0)
 -   [Lymphedenopathy
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/LymphNodes.jmp)
 -   [Pancreatic cancer
