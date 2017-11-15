@@ -63,6 +63,7 @@ Answer the following about the documentary 13th:
 * Lecture 10: Comparing risks | [PPT](https://www.dropbox.com/s/f509mjzrzj80azg/10%20-%20Comparing%20risks.pptx?dl=0) | [PDF](https://www.dropbox.com/s/cr8dckk1fww44if/10%20-%20Comparing%20risks.pdf?dl=0) | [Video recording (part 1)](https://mediaspace.mnscu.edu/media/Stat110-F17A+Lecture+10+%28part+1%29/0_cfvdvutf) | [Video recording (part 2)](https://mediaspace.mnscu.edu/media/Lecture10-part2.mp4/1_vxx0sbiu)
 * Lecture 11: Inference for a single mean | [PPT](https://www.dropbox.com/s/kgh17su3pddpjof/11%20-%20Inference%20for%20single%20population%20mean.pptx?dl=0) | [PDF](https://www.dropbox.com/s/iem5wuihr1twdjz/11%20-%20Inference%20for%20single%20population%20mean.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110-F17A+Lecture+11/1_chrl15lp)
 * Lecture 12: Comparing means of dependent samples | [PPT](https://www.dropbox.com/s/xnck8481ih8scs4/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/wxe3thqaowlf75x/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110-F17ALecture+12/1_1588e0bj)
+* Lecture 13: Comparing means of independent samples | [PPT](https://www.dropbox.com/s/leyu8qudo15y3kg/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/4mmi8k5mtc0ud7t/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pdf?dl=0)
 
 ### Homework
 
@@ -88,6 +89,7 @@ Answer the following about the documentary 13th:
 * [Even more additional chi-square practice problems (on parole violation prediction)](https://www.dropbox.com/s/zoagtpvpkvvgclp/Chisquare-final.docx?dl=0)
 * [Risk difference and relative risk](https://www.dropbox.com/s/gl5u0mbdcofl4by/Risk-difference-relative-risk.docx?dl=0)
 * [One-sample t-test problem](https://www.dropbox.com/s/kdtdp5vesoo990j/one-sample%20t-test.docx?dl=0)
+* [Comparing means of independent samples](https://www.dropbox.com/s/5pc0dbbkrhrsy9q/two-sample%20t-test.docx?dl=0)
 
 ### Exams
 
