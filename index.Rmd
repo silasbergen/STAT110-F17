@@ -105,6 +105,7 @@ Answer the following about the documentary 13th:
 -   [BRFSS
     data](https://www.dropbox.com/s/lbqr85a1to664n9/BRFSS.jmp?dl=0)
 -   [California expenditures data](https://www.dropbox.com/s/x22xv6aljppse5b/CA_Expenditures.jmp?dl=0)
+- [Commute times](https://www.dropbox.com/s/1wbpr5zkvvyti45/HypoCommute2.jmp?dl=0)
 -   [FEV
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/FEVdata.jmp)
 -   [HIV
