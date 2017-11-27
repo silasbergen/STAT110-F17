@@ -64,6 +64,7 @@ Answer the following about the documentary 13th:
 * Lecture 11: Inference for a single mean | [PPT](https://www.dropbox.com/s/kgh17su3pddpjof/11%20-%20Inference%20for%20single%20population%20mean.pptx?dl=0) | [PDF](https://www.dropbox.com/s/iem5wuihr1twdjz/11%20-%20Inference%20for%20single%20population%20mean.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110-F17A+Lecture+11/1_chrl15lp)
 * Lecture 12: Comparing means of dependent samples | [PPT](https://www.dropbox.com/s/xnck8481ih8scs4/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/wxe3thqaowlf75x/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110-F17ALecture+12/1_1588e0bj)
 * Lecture 13: Comparing means of independent samples | [PPT](https://www.dropbox.com/s/leyu8qudo15y3kg/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/4mmi8k5mtc0ud7t/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110AF17-Lecture+13/1_w8i4sl0i)
+* Lecture 14: Describing associations between 2 quantitative variables | [PPT](https://www.dropbox.com/s/7mer22ipzzr4iw6/14%20-%20Associations%20between%20two%20quantitative%20variables.pptx?dl=0) | [PDF](https://www.dropbox.com/s/h4p700r9o1zicnw/14%20-%20Associations%20between%20two%20quantitative%20variables.pdf?dl=0)
 
 ### Homework
 
@@ -91,11 +92,13 @@ Answer the following about the documentary 13th:
 * [Risk difference and relative risk](https://www.dropbox.com/s/gl5u0mbdcofl4by/Risk-difference-relative-risk.docx?dl=0)
 * [One-sample t-test problem](https://www.dropbox.com/s/kdtdp5vesoo990j/one-sample%20t-test.docx?dl=0)
 * [Comparing means of independent samples](https://www.dropbox.com/s/5pc0dbbkrhrsy9q/two-sample%20t-test.docx?dl=0)
+* [Associations and correlations practice problems](https://www.dropbox.com/s/fg5t87vn2drburq/Regression_Scatterplots.docx?dl=0)
 
 ### Exams
 
 * [Practice exam 1](https://www.dropbox.com/s/nvboy135cq62ikj/Exam1-S17.docx?dl=0) | [KEY](https://www.dropbox.com/s/p3oodthq1rqc8t9/Exam1-S17%20-%20KEY.docx?dl=0) | [Exam 1 Key](https://www.dropbox.com/s/0r5aj695h857fbk/Exam1-F17-A-KEY.docx?dl=0)
 * [Practice exam 2](https://www.dropbox.com/s/uc1m1z7skk0ob22/Exam2-S17.docx?dl=0) | [KEY](https://www.dropbox.com/s/wtm717hnncm7tsy/Exam2-S17-KEY.docx?dl=0) | [Exam 2 Key](https://www.dropbox.com/s/d6doz5j41szdeh6/Exam2-F17-KEY.docx?dl=0)
+* [Practice final exam](https://www.dropbox.com/s/shvquqsq9h8cwfz/PracticeFinal-F16.docx?dl=0) | [KEY](https://www.dropbox.com/s/sbkdsf0ked1ssya/PracticeFinal-F16-KEY.docx?dl=0)
 
 ### Data
 
@@ -110,6 +113,7 @@ Answer the following about the documentary 13th:
 - [Commute times](https://www.dropbox.com/s/1wbpr5zkvvyti45/HypoCommute2.jmp?dl=0)
 -   [FEV
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/FEVdata.jmp)
+-   [Gun data](https://www.dropbox.com/s/zzqqp6cv96me99r/Gun-data.jmp?dl=0)
 -   [HIV
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/HIV-Antiretroviral.jmp)
 -   [Iraq War
@@ -136,6 +140,7 @@ Answer the following about the documentary 13th:
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/Titanic.jmp)
 -   [Trombone
     data](https://github.com/silasbergen/CourseResources/raw/master/Data/trombone.jmp)
+-   [Trump vote in MN](https://www.dropbox.com/s/xefabapb3jp093s/Trump_Vote_MN.jmp?dl=0)
 
 
 
