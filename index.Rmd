@@ -65,6 +65,7 @@ Answer the following about the documentary 13th:
 * Lecture 12: Comparing means of dependent samples | [PPT](https://www.dropbox.com/s/xnck8481ih8scs4/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/wxe3thqaowlf75x/12%20-%20Comparing%20means%20of%20two%20dependent%20samples.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110-F17ALecture+12/1_1588e0bj)
 * Lecture 13: Comparing means of independent samples | [PPT](https://www.dropbox.com/s/leyu8qudo15y3kg/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pptx?dl=0) | [PDF](https://www.dropbox.com/s/4mmi8k5mtc0ud7t/13%20-%20Comparing%20means%20of%20two%20independent%20samples.pdf?dl=0) | [Video recording](https://mediaspace.mnscu.edu/media/Stat110AF17-Lecture+13/1_w8i4sl0i)
 * Lecture 14: Describing associations between 2 quantitative variables | [PPT](https://www.dropbox.com/s/7mer22ipzzr4iw6/14%20-%20Associations%20between%20two%20quantitative%20variables.pptx?dl=0) | [PDF](https://www.dropbox.com/s/h4p700r9o1zicnw/14%20-%20Associations%20between%20two%20quantitative%20variables.pdf?dl=0)
+* Overview of all Stat 110 | [PPT](https://www.dropbox.com/s/1f2alsl3cf4tev1/Stat110-OVERVIEW.pptx?dl=0)
 
 ### Homework
 
